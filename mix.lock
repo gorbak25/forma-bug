@@ -1,0 +1,3 @@
+%{
+  "forma": {:hex, :forma, "0.7.1", "dfb63d89918d9ed2a97dbe60c2e89be483cd03ed6eb5f061fc8bc7d875f7ab01", [:mix], [], "hexpm"},
+}
